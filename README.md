@@ -31,5 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ng deploy --base-href=/personal-website/
 
-### Then available at:
+## Then available at:
 https://joseph-d-bradshaw.github.io/personal-website/
